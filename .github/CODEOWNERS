@@ -1,0 +1,29 @@
+# Each line is a file pattern followed by one or more owners.
+# Owners will be requested for review when someone opens a pull request.
+
+# For more details, see https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+/build/ @crazy-max @jedevc @dvdksn
+
+/compose/ @aevesdocker
+
+/desktop/ @aevesdocker
+
+/desktop/extensions/ @aevesdocker
+
+/desktop/extensions-sdk/ @aevesdocker
+
+/scout/ @dvdksn
+
+/docker-hub/ @aevesdocker @craig-osterhout @stephaurelio
+
+/engine/ @dvdksn
+
+/subscription/ @aevesdocker @stephaurelio
+
+/docker-hub/publish/ @aevesdocker
+
+/docker-hub/official_images/ @aevesdocker
+
+/registry/ @dvdksn
+
